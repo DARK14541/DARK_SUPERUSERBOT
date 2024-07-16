@@ -43,7 +43,7 @@
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
-            "value": "",
+            "value": "BQGfSLIActduYmTYAV-MD57oBcMEct4zEGnRggSs_jFEw1rL-4WT7sGtp5Qn5ax-SSD2OB7yaMzGS2IiJ-HRoYZxLdHd0Fb8YUYHu0ATBPKJNmiKG9oVkbqr7LAzodW1p_Tzb_izKBRMyM4wJYTi-DxPcz15SA59Dw0tUkn5j-kEJ61B10yUeN5yhRcEqn1hLGfCo5wjJYq-yV2NdZrRjS0ZdTbbzpEQtW9SF5XEK8AUc091oWqtbu8XV4Thvqt-vzC2CtEX7_vF-2vW00of94xBnCmhQmZhSoFplQFG7wUiC0DpPhQDn8BCWMgV_JX79dJbYg4vnFRF0L6Fhhf1RrhEM_a_VwAAAAGkrdEFAA",
             "required": true
         },
         "MONGO_DB_URL": {
